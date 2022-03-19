@@ -1,0 +1,7 @@
+---
+name: HealthTags
+version: 0.0.1
+main: ryo5828\HealthTags\Main
+api: 4.2.0
+src-namespace-prefix: ryo5828\HealthTags
+...
